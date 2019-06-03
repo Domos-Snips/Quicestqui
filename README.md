@@ -6,3 +6,5 @@ et ajouter les noms des personnes de la famille
 ```
 list = [u'Paul', u'Lola', u'Urbain', u'Emilio', u'Papi']
 ```
+
+Snips Tokens : https://console.snips.ai/?ref=2mpzEgBZDVx
